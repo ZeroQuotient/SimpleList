@@ -1,0 +1,12 @@
+SimpleList	KEYWORD1
+size	KEYWORD2
+isEmpty	KEYWORD2
+add	KEYWORD2
+count	KEYWORD2
+get	KEYWORD2
+getFirst	KEYWORD2
+getLast	KEYWORD2
+pop	KEYWORD2
+remove	KEYWORD2
+removeFirst	KEYWORD2
+removeLast	KEYWORD2
